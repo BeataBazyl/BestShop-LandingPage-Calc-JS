@@ -5,7 +5,7 @@ mobile, and tablet views. I was responsible for bringing the design to life thro
 and user-friendly across different devices. This project provided valuable hands-on experience in front-end development 
 and allowed me to expand my technical skills.
 
-# Live view:  https://beatabazyl.github.io/BestShop-LandingPage-Calc-JS/
+### Live view:  https://beatabazyl.github.io/BestShop-LandingPage-Calc-JS/
 
 # Screenshots:
 
